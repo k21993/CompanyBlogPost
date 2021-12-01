@@ -1,0 +1,29 @@
+Main Components of the Project
+
+PROJECT VIEWS
+    1. Core
+        a. Index
+        b. Info
+
+    2. Users
+        a. Register
+        b. Login
+        c. Logout
+        d. User Posts
+
+    3. Blog Posts
+        a. C reate 
+        b. Update
+        c. Delete
+        d. Blog Post
+
+PROJECT MODELS
+
+    1. Users
+        ID, Profile Pic, Email, Username, Password, Posts
+
+    2. Blog Posts
+        ID, User ID, Date, Title, Text
+    
+
+
